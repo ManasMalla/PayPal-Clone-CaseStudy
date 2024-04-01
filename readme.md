@@ -58,7 +58,7 @@ A few classes that are encapsulated for the project:
 
    ix. `card` (Card): The banking card linked to the user's bank and PayPal account, to be used for transactional purposes
 
-6. Payment: a basic class to encapsulate the transaction related properties, methods and functions.
+6. `Payment`: a basic class to encapsulate the transaction related properties, methods and functions.
 
    i. `paymentId` (String): A random unique identifier (UUID) that is used to tag a particular transaction
 
