@@ -6,6 +6,16 @@
 
 A simple payment management system, inspired by PayPal, in the exact language in which the fin-tech giant started out.
 
+This CLI based project integrates sign-in functionality, blocks more than 3 wrong password attempts including the following:
+
+1. Instantiate Transaction
+2. View Transaction History
+3. View Account Details
+4. View Card Details
+5. View Bank Details
+6. View Balance
+7. View Currency Details
+
 A few classes that are encapsulated for the project:
 
 1. `Currency`: A custom interface that defines and holds the data about the currency, like the:
