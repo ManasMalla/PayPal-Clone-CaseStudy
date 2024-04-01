@@ -83,3 +83,14 @@ A few classes that are encapsulated for the project:
    vi. `sender` (User): the user who is sending the funds, i.e, the user whose bank account is going to debited with the funds in the `currency`
 
    vii. `approved` (boolean): a boolean flag to identify is the transaction is compliant
+
+> [!TIP]
+>
+> A few areas that could be ventured in the future include:
+>
+> 1.  New user registration
+> 2.  checking transaction compliance
+> 3.  Update card details
+> 4.  Update bank details
+> 5.  Update credits to account
+> 6.  Update the user's default currency
