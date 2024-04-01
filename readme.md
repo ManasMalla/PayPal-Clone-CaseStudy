@@ -70,6 +70,6 @@ A few classes that are encapsulated for the project:
 
    v. `recepient` (User): the user who is recieving the funds, i.e, the user whose bank account is going to credited with the funds in the `convertedCurrency`
 
-   vi. sender (User): the user who is sending the funds, i.e, the user whose bank account is going to debited with the funds in the `currency`
+   vi. `sender` (User): the user who is sending the funds, i.e, the user whose bank account is going to debited with the funds in the `currency`
 
    vii. `approved` (boolean): a boolean flag to identify is the transaction is compliant
